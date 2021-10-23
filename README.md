@@ -1,6 +1,6 @@
 # libft_tester
 
-This is tiny libft tester I created to test my own functions. Beware that it is quite limited.
+This is tiny libft tester I created to test my own functions.
 
 ### Instructions
 `git clone` this repo inside of your libft folder.<br>
