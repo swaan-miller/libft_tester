@@ -8,4 +8,4 @@ This is tiny libft tester I created to test my own functions.
 <br/><br/>
 
 
-![Desert](https://github.com/subsp4ce/pics/blob/master/pexels-pixabay-210307.jpg "Desert")
+![tester](https://github.com/subsp4ce/pics/blob/master/libft_tester.png "tester")
